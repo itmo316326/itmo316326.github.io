@@ -76,7 +76,7 @@ body {
 /* 测试图片 */
 .fakeimg {
     background-color: #aaa;
-    width: 100%;
+    width: 80%;
     padding: 20px;
 }
  
@@ -85,6 +85,11 @@ body {
     padding: 20px;
     text-align: center;
     background: #ddd;
+}
+
+.img{
+    width:360px;
+    height:160px;
 }
 
 /* 响应式布局 - 在屏幕设备宽度尺寸小于 700px 时, 让两栏上下堆叠显示 */
